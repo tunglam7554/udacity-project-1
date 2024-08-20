@@ -1,3 +1,4 @@
+alembic==1.13.2
 Babel==2.15.0
 Fabric==3.2.2
 Flask==3.0.3
@@ -6,5 +7,5 @@ Flask_Moment==1.0.6
 flask_sqlalchemy==3.1.1
 flask_wtf==1.2.1
 python_dateutil==2.9.0.post0
+SQLAlchemy==2.0.31
 WTForms==3.1.2
-psycopg2
